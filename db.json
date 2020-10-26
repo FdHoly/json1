@@ -16,24 +16,6 @@
                     "pstock3": "10",
                     "pprice3": "Rp.100.000"
 				}
-        },
-        
-        {
-                "nama": "OLSHOPPC",
-                "owner": "Greta",
-                "produk": {
-                    "pname1": "Mouse",
-                    "pstock1": "15",
-                    "pprice1": "Rp.20.000"
-                
-					"pname2": "Keyboard",
-                    "pstock2": "25",
-                    "pprice2": "Rp.75.000"
-				
-					"pname3": "Speaker",
-                    "pstock3": "7",
-                    "pprice3": "Rp.50.000"
-				}
         }
     ]
 }
